@@ -1,9 +1,9 @@
 ### Hi there, I'm Li 😊
 
-I am a programmer based in Amsterdam, Netherlands. I have 7+ years of experience as a Finance & Risk consultant in the Financial Services industry.
+I am a programmer based in Amsterdam, Netherlands. I have 8+ years of experience in the Financial Services industry.
 
 - 🌱 I’m currently learning Java 17, and I'm studying to become an Oracle Certified Professional Java SE 17 Developer
-- 🤔 I’m looking for opportunities to deepen my programming skills
+- 🤔 I’m looking for opportunities to deepen my programming and product management skills
 
 ### My projects:  
 [Gitlet](https://github.com/lizhu129/gitlet): a version control system  
